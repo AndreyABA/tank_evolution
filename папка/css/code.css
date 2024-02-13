@@ -9,7 +9,7 @@
   width: 100%;
   background-attachment: fixed;
 }
-.backgr img {
+.tankphotos img {
   position: absolute;
   height: 50vh;
 }
@@ -30,32 +30,26 @@
 .main_name {
   padding-top: 310px;
 }
-.last {
-  color: white;
-  font-size: 70px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 400;
-  padding-top: 205px;
-}
 .arrows img {
-  position: absolute;
   height: 50px;
 }
-.arrows .arr1 {
-  left: 1240px;
-  top: 852px;
+.arrows {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 205px;
 }
-.arrows .arr2 {
-  left: 615px;
-  top: 852px;
+.arrows a {
+  color: white;
+  font-size: 70px;
+  font-family: "Tektur", sans-serif;
+  font-weight: 400;
 }
 .years {
   background-image: url("background56.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 2170px;
+  height: 2050px;
   color: white;
   font-size: 150px;
   text-align: center;
@@ -227,79 +221,17 @@
   top: 2860px;
 }
 /* Начало выбора годов */
-.topline img {
-  position: absolute;
-  right: 645px;
-}
-.y1939 .l1 {
-  top: 930px;
-}
-.y1939 .l2 {
-  top: 1150px;
-}
-.y1939 p {
-  padding-top: 60px;
-}
-.topline p {
-  font-size: 175px;
+.topline div {
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+  line-height: 60px;
+  padding-top: 15px;
 }
 .topline a {
   color: white;
-  text-decoration: 0;
-}
-.y1940 .l1 {
-  top: 1235px;
-}
-.y1940 .l2 {
-  top: 1455px;
-}
-.y1940 p {
-  padding-top: 80px;
-}
-.y1941 .l1 {
-  top: 1540px;
-}
-.y1941 p {
-  padding-top: 78px;
-}
-.y1941 .l2 {
-  top: 1760px;
-}
-.y1942 .l1 {
-  top: 1845px;
-}
-.y1942 .l2 {
-  top: 2065px;
-}
-.y1942 p {
-  padding-top: 75px;
-}
-.y1943 p {
-  padding-top: 78px;
-}
-.y1943 .l1 {
-  top: 2150px;
-}
-.y1943 .l2 {
-  top: 2370px;
-}
-.y1944 p {
-  padding-top: 76px;
-}
-.y1944 .l1 {
-  top: 2455px;
-}
-.y1944 .l2 {
-  top: 2675px;
-}
-.y1945 .l2 {
-  top: 2980px;
-}
-.y1945 .l1 {
-  top: 2760px;
-}
-.y1945 p {
-  padding-top: 77px;
+  font-size: 160px;
+  text-decoration: none;
 }
 /* Конец выбора годов */
 /* Начало 1939 года */
@@ -976,138 +908,51 @@
   right: 220px;
   top: 260px;
 }
-/* ис 3 */
-.is3sm1 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-  left: 460px;
-}
-.is3sm2 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-  right: 460px;
-}
-/*Конец 1944 года*/
-/*Начало 1945 года*/
-.main1945 img {
-  position: absolute;
-  height: 130px;
-}
-.main1945 {
-  background-image: url("background.jpg");
-  height: 100vh;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.main1945 {
-  color: white;
-  font-size: 160px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 700;
-}
-.menu1945 p {
-  position: absolute;
-  color: white;
-  font-size: 65px;
-  font-family: "Tektur", sans-serif;
-}
-.menu1945 a {
-  position: absolute;
-  color: white;
-  font-size: 85px;
-  font-family: "Tektur", sans-serif;
-}
-.s19451 {
-  top: 35px;
-  left: 620px;
-}
-.s19452 {
-  top: 35px;
-  left: 1160px;
-}
-/* ис 3 */
-.is3 p {
-  top: 265px;
-  left: 715px;
-}
-.is3 a {
-  top: 595px;
-  left: 860px;
-}
-.is3 .pr3 {
-  position: absolute;
-  top: 240px;
-  left: 550px;
-  height: 500px;
-  width: 800px;
-}
-.is3 .is3img {
-  position: absolute;
-  height: 380px;
-  top: 240px;
-  left: 680px;
-}
-.is3sm3 {
-  position: absolute;
-  height: 650px;
-  top: 200px;
-  left: 460px;
-}
-.is3sm4 {
-  position: absolute;
-  height: 650px;
-  top: 200px;
-  right: 460px;
-}
-.tank_is3 {
+.tank_t44 {
   background-image: url("background67.png");
   width: 100%;
-  height: 4350px;
+  height: 3750px;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.tank_is3 img {
+.tank_t44 img {
   position: absolute;
 }
-.tank_is3 li {
+.tank_t44 li {
   color: white;
   font-family: "Tektur", sans-serif;
 }
-.tank_is3 h1 {
+.tank_t44 h1 {
   color: white;
   font-family: "Tektur", sans-serif;
   text-align: center;
   font-size: 150px;
 }
-.tank_is3 p {
+.tank_t44 p {
   color: white;
   font-family: "Tektur", sans-serif;
   text-align: center;
   font-size: 40px;
 }
-.callis3 {
+.callt44 {
   text-decoration: underline;
 }
-.tank_is3 .icon1 {
+.tank_t44 .icon1 {
   height: 100px;
   left: 430px;
   top: 50px;
 }
-.tank_is3 .icon2 {
+.tank_t44 .icon2 {
   transform: scale(-1, 1);
   height: 100px;
   right: 430px;
   top: 50px;
 }
-.tank_is3 .is3sides {
+.tank_t44 .is3sides {
   left: 170px;
   top: 240px;
 }
-.gray {
+.grayt44 {
   position: absolute;
   height: 460px;
   width: 1570px;
@@ -1138,7 +983,7 @@
   right: 0px;
   transform: scale(-1, 1);
 }
-.gray2 {
+.gray2t44 {
   position: absolute;
   height: 1140px;
   width: 870px;
@@ -1148,15 +993,164 @@
   border: solid gray 4px;
   border-radius: 60px;
 }
-.gray2 h1 {
+.gray2t44 h1 {
   font-size: 70px;
   line-height: 70px;
   padding-top: 10px;
 }
-.gray2 p {
+.gray2t44 p {
   padding-top: 10px;
   font-size: 55px;
   text-align: center;
+}
+.gray2t44 ul {
+  padding-top: 10px;
+  text-align: center;
+  list-style: url("star2.png") inside;
+  line-height: 75px;
+  font-size: 55px;
+}
+.gray2t44 ul li::after {
+  content: url("star2.png");
+  margin-left: 8px;
+}
+.gray2t44 ul .weapons {
+  font-size: 70px;
+  font-weight: 700;
+  list-style: none;
+}
+.gray2t44 ul .weapons::after {
+  content: none;
+}
+.gray3t44 {
+  position: absolute;
+  height: 1700px;
+  width: 1570px;
+  background-image: url("background78.png");
+  top: 1965px;
+  left: 160px;
+  border: solid gray 4px;
+  border-radius: 60px;
+}
+.gray3t44 p {
+  margin: 20px;
+}
+/* ис 3 */
+.is3sm1 {
+  position: absolute;
+  height: 650px;
+  top: 740px;
+  left: 460px;
+}
+.is3sm2 {
+  position: absolute;
+  height: 650px;
+  top: 740px;
+  right: 460px;
+}
+/*Конец 1944 года*/
+/*Начало 1945 года*/
+.main1945 img {
+  height: 130px;
+}
+.bg1945 {
+  background-image: url("background3.png");
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main1945 {
+  color: white;
+  font-size: 160px;
+  text-align: center;
+  font-family: "Tektur", sans-serif;
+  font-weight: 700;
+}
+.main1945 img {
+  margin-right: -25px;
+  margin-left: -25px;
+}
+.menu1945 {
+  width: 40%;
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  font-family: "Tektur", sans-serif;
+  border: solid white 3px;
+  border-radius: 25px;
+  margin: 0 auto;
+  margin-top: 8vh;
+  line-height: 80px;
+  padding: 10px;
+  margin-top: -69vh;
+}
+.menu1945 .is3a {
+  width: 105%;
+  margin-top: -140px;
+  margin-left: 4vh;
+}
+.menu1945 .arrs {
+  width: 9%;
+}
+.menu1945 a {
+  font-size: 90px;
+  color: white;
+  text-decoration: none;
+}
+.smokes {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+.smokes img {
+  width: auto;
+}
+/* ис 3 */
+
+.tank_is3 {
+  background-image: url("background67.png");
+  width: 100%;
+  height: 450vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tank_is3 li {
+  color: white;
+  font-family: "Tektur", sans-serif;
+}
+.tank_is3 p {
+  color: white;
+  font-family: "Tektur", sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+.maincall {
+  color: white;
+  font-family: "Tektur", sans-serif;
+  text-align: center;
+  font-size: 150px;
+  font-weight: 700;
+  width: 100%;
+}
+.maincall .icon2 {
+  transform: scale(-1, 1);
+}
+.gray {
+  background-image: url("background78.png");
+  width: 79%;
+  margin: 0 auto;
+  border: solid white 4px;
+  border-radius: 60px;
+}
+.gray2 {
+  width: 45%;
+  padding: 10px;
+  margin-top: 30px;
+  background-image: url("background78.png");
+  border: solid white 4px;
+  border-radius: 60px;
+  margin: 30px auto;
 }
 .gray2 ul {
   padding-top: 10px;
@@ -1178,13 +1172,10 @@
   content: none;
 }
 .gray3 {
-  position: absolute;
-  height: 2200px;
-  width: 1570px;
+  margin: 30px auto;
+  width: 85%;
   background-image: url("background78.png");
-  top: 1965px;
-  left: 160px;
-  border: solid gray 4px;
+  border: solid white 4px;
   border-radius: 60px;
 }
 .gray3 p {
