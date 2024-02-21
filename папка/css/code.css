@@ -6,6 +6,10 @@
 .backgr {
   background-image: url("background67.png");
   width: 100%;
+  height: 3000px;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .main_name {
   color: white;
