@@ -104,778 +104,109 @@
 }
 /* Конец 1939 года */
 /* Начало 1940 года */
-.main1940 {
-  background-image: url("background.jpg");
-  height: 1400px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.main1940 {
-  color: white;
-  font-size: 160px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 700;
-}
-.s19401 {
-  top: 35px;
-  left: 620px;
-}
-.s19402 {
-  top: 35px;
-  left: 1160px;
-}
-.main1940 img {
-  position: absolute;
-  height: 130px;
-}
-.menu1940 p {
-  position: absolute;
-  color: white;
-  font-size: 65px;
-  font-family: "Tektur", sans-serif;
-}
-.menu1940 a {
-  position: absolute;
-  color: white;
-  font-size: 85px;
-  font-family: "Tektur", sans-serif;
-}
+
 /* т 40 */
-.t40 p {
-  top: 265px;
-  left: 295px;
+#t40menu {
+  float: left;
 }
-.t40 a {
-  top: 595px;
-  left: 400px;
-}
-.t40 .pr1 {
-  position: absolute;
-  top: 240px;
-  left: 95px;
-  height: 500px;
-  width: 800px;
-}
-.t40 .t40img {
-  position: absolute;
-  height: 270px;
-  top: 335px;
-  left: 265px;
-}
-.t40sm1 {
-  position: absolute;
-  height: 650px;
-  top: 200px;
-}
-.t40sm2 {
-  position: absolute;
-  height: 650px;
-  top: 200px;
-  left: 350px;
+#imgt40 {
+  width: 88%;
+  margin-left: 4vh;
 }
 /* т 34 */
-.t34 p {
-  top: 265px;
-  right: 265px;
+#t34menu {
+  float: right;
 }
-.t34 a {
-  top: 595px;
-  right: 395px;
-}
-.t34 .pr2 {
-  position: absolute;
-  top: 240px;
-  right: 95px;
-  height: 500px;
-  width: 800px;
-}
-.t34 .t34img {
-  position: absolute;
-  height: 275px;
-  top: 340px;
-  right: 240px;
-}
-.t34sm1 {
-  position: absolute;
-  height: 650px;
-  top: 200px;
-  right: 350px;
-}
-.t34sm2 {
-  position: absolute;
-  height: 650px;
-  top: 200px;
-  right: 0px;
+#imgt34 {
+  width: 94%;
 }
 /* кв 1 */
-.kv1 p {
-  top: 805px;
-  left: 260px;
+#kv1menu {
+  float: left;
+  margin-top: 60px;
 }
-.kv1 a {
-  top: 1135px;
-  left: 405px;
-}
-.kv1 .pr3 {
-  position: absolute;
-  top: 780px;
-  left: 95px;
-  height: 500px;
-  width: 800px;
-}
-.kv1 .kv1img {
-  position: absolute;
-  height: 270px;
-  top: 880px;
-  left: 250px;
-}
-.tkv1sm1 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-}
-.tkv1sm2 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-  left: 350px;
+#imgkv1 {
+  width: 90%;
 }
 /* кв 2 */
-.kv2 p {
-  top: 805px;
-  right: 250px;
+#kv2menu {
+  float: right;
+  margin-top: 60px;
 }
-.kv2 a {
-  top: 1135px;
-  right: 395px;
-}
-.kv2 .pr4 {
-  position: absolute;
-  top: 780px;
-  right: 95px;
-  height: 500px;
-  width: 800px;
-}
-.kv2 .kv2img {
-  position: absolute;
-  height: 265px;
-  top: 880px;
-  right: 265px;
-}
-.kv2sm1 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-  right: 350px;
-}
-.kv2sm2 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-  right: 0px;
+#imgkv2 {
+  width: 90%;
 }
 /*Конец 1940 года*/
 /*Начало 1941 года*/
-.main1941 img {
-  position: absolute;
-  height: 130px;
-}
-.main1941 {
-  background-image: url("background.jpg");
-  height: 1400px;
+.bg1941 {
+  background-image: url("background56.png");
+  height: 165vh;
+  overflow: hidden;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.main1941 {
-  color: white;
-  font-size: 160px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 700;
-}
-.s19411 {
-  top: 35px;
-  left: 620px;
-}
-.s19412 {
-  top: 35px;
-  left: 1160px;
-}
-.menu1941 p {
-  position: absolute;
-  color: white;
-  font-size: 65px;
-  font-family: "Tektur", sans-serif;
-}
-.menu1941 a {
-  position: absolute;
-  color: white;
-  font-size: 85px;
-  font-family: "Tektur", sans-serif;
-}
 /* т 50 */
-.t50 p {
-  top: 265px;
-  left: 295px;
+#t50menu {
+  float: left;
 }
-.t50 a {
-  top: 595px;
-  left: 400px;
-}
-.t50 .pr1 {
-  position: absolute;
-  top: 240px;
-  left: 95px;
-  height: 500px;
-  width: 800px;
-}
-.t50 .t50img {
-  position: absolute;
-  height: 280px;
-  top: 335px;
-  left: 255px;
+#imgt50 {
+  width: 90%;
 }
 /* т 60 */
-.t60 p {
-  top: 265px;
-  right: 290px;
+#t60menu {
+  float: right;
 }
-.t60 a {
-  top: 595px;
-  right: 395px;
-}
-.t60 .pr2 {
-  position: absolute;
-  top: 240px;
-  right: 95px;
-  height: 500px;
-  width: 800px;
-}
-.t60 .t60img {
-  position: absolute;
-  height: 280px;
-  top: 335px;
-  right: 230px;
+#imgt60 {
+  width: 89%;
 }
 /* т 70 */
-.t70 p {
-  top: 805px;
-  left: 745px;
+#t70menu {
+  margin: 670px auto;
 }
-.t70 a {
-  top: 1135px;
-  left: 860px;
-}
-.t70 .pr3 {
-  position: absolute;
-  top: 780px;
-  left: 550px;
-  height: 500px;
-  width: 800px;
-}
-.t70 .t70img {
-  position: absolute;
-  height: 270px;
-  top: 880px;
-  left: 740px;
+#imgt70 {
+  width: 90%;
 }
 /*Конец 1941 года*/
 /*Начало 1942 года*/
-.main1942 img {
-  position: absolute;
-  height: 130px;
-}
-.main1942 {
-  background-image: url("background.jpg");
-  height: 100vh;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.main1942 {
-  color: white;
-  font-size: 160px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 700;
-}
-.s19421 {
-  top: 35px;
-  left: 620px;
-}
-.s19422 {
-  top: 35px;
-  left: 1160px;
-}
-.menu1942 p {
-  position: absolute;
-  color: white;
-  font-size: 65px;
-  font-family: "Tektur", sans-serif;
-}
-.menu1942 a {
-  position: absolute;
-  color: white;
-  font-size: 85px;
-  font-family: "Tektur", sans-serif;
-}
 /* кв 1 с*/
-.kv1s .pr1 {
-  position: absolute;
-  top: 240px;
-  left: 95px;
-  height: 500px;
-  width: 800px;
-}
-.kv1s p {
-  top: 265px;
-  left: 265px;
-}
-.kv1s a {
-  top: 595px;
-  left: 390px;
-}
-.kv1s .kv1simg {
-  position: absolute;
-  height: 280px;
-  top: 335px;
-  left: 255px;
-}
 /* ис 1 */
-.is1 p {
-  top: 265px;
-  right: 250px;
-}
-.is1 a {
-  top: 595px;
-  right: 410px;
-}
-.is1 .pr2 {
-  position: absolute;
-  top: 240px;
-  right: 95px;
-  height: 500px;
-  width: 800px;
-}
-.gray2is1 {
-  position: absolute;
-  height: 1070px;
-  width: 870px;
-  background-image: url("background78.png");
-  top: 760px;
-  left: 520px;
-  border: solid gray 4px;
-  border-radius: 60px;
-}
-.tank_is3 .gray2is1 h1 {
-  font-size: 70px;
-  line-height: 70px;
-  padding-top: 10px;
-}
-.gray2is1 p {
-  padding-top: 10px;
-  font-size: 55px;
-  text-align: center;
-}
-.gray2is1 ul {
-  padding-top: 10px;
-  text-align: center;
-  list-style: url("star2.png") inside;
-  line-height: 75px;
-  font-size: 55px;
-}
-.gray2is1 ul li::after {
-  content: url("star2.png");
-  margin-left: 8px;
-}
-.gray2is1 ul .weapons {
-  font-size: 70px;
-  font-weight: 700;
-  list-style: none;
-}
-.gray2is1 ul .weapons::after {
-  content: none;
-}
-.is1 .is1img {
-  position: absolute;
-  height: 340px;
-  top: 295px;
-  right: 245px;
-}
 /*Конец 1942 года*/
 /*Начало 1943 года*/
-.main1943 {
-  background-image: url("background.jpg");
-  height: 100vh;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.main1943 {
-  color: white;
-  font-size: 160px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 700;
-}
-.s19431 {
-  top: 35px;
-  left: 620px;
-}
-.s19432 {
-  top: 35px;
-  left: 1160px;
-}
-.main1943 img {
-  position: absolute;
-  height: 130px;
-}
-.menu1943 p {
-  position: absolute;
-  color: white;
-  font-size: 65px;
-  font-family: "Tektur", sans-serif;
-}
-.menu1943 a {
-  position: absolute;
-  color: white;
-  font-size: 85px;
-  font-family: "Tektur", sans-serif;
-}
-/* т 80 с*/
-.t80 .pr1 {
-  top: 240px;
-  left: 95px;
-  position: absolute;
-  height: 500px;
-  width: 800px;
-}
-.t80 p {
-  top: 265px;
-  left: 300px;
-}
-.t80 a {
-  top: 595px;
-  left: 405px;
-}
-.t80 .t80img {
-  position: absolute;
-  height: 300px;
-  top: 320px;
-  left: 265px;
+/* т 80 */
+.imgt80 {
+  width: 90%;
 }
 /* ис 2 */
-.is2 p {
-  top: 265px;
-  right: 250px;
-}
-.is2 a {
-  top: 595px;
-  right: 405px;
-}
-.is2 .pr2 {
-  top: 240px;
-  right: 95px;
-  position: absolute;
-  height: 500px;
-  width: 800px;
-}
-.is2 .is2img {
-  position: absolute;
-  height: 320px;
-  top: 290px;
-  right: 185px;
-}
-.gray3is2 {
-  position: absolute;
-  height: 1920px;
-  width: 1570px;
-  background-image: url("background78.png");
-  top: 1890px;
-  left: 160px;
-  border: solid gray 4px;
-  border-radius: 60px;
-}
-.gray3is2 p {
-  margin: 20px;
-}
-.tank_is2 {
-  background-image: url("background67.png");
+.imgis2 {
   width: 100%;
-  height: 3940px;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.tank_is2 img {
-  position: absolute;
-}
-.tank_is2 li {
-  color: white;
-  font-family: "Tektur", sans-serif;
-}
-.tank_is2 h1 {
-  color: white;
-  font-family: "Tektur", sans-serif;
-  text-align: center;
-}
-.callis2 {
-  font-size: 150px;
-}
-.tank_is2 .gray2is1 h1 {
-  font-size: 70px;
-  line-height: 70px;
-  padding-top: 10px;
-}
-.tank_is2 p {
-  color: white;
-  font-family: "Tektur", sans-serif;
-  text-align: center;
-  font-size: 40px;
-}
-.callis2 {
-  text-decoration: underline;
-}
-.tank_is2 .icon1 {
-  height: 100px;
-  left: 430px;
-  top: 50px;
-}
-.tank_is2 .icon2 {
-  transform: scale(-1, 1);
-  height: 100px;
-  right: 430px;
-  top: 50px;
-}
-.tank_is2 .is3sides {
-  left: 170px;
-  top: 240px;
+  margin-left: 4vh;
+  margin-top: -40px;
 }
 /*Конец 1943 года*/
 /*Начало 1944 года*/
-.main1944 img {
-  position: absolute;
-  height: 130px;
-}
-.main1944 {
+.bg1944 {
   background-image: url("background.jpg");
   height: 100vh;
+  overflow: hidden;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.main1944 {
-  color: white;
-  font-size: 160px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 700;
+#t3485menu {
+  float: left;
 }
-.s19441 {
-  top: 35px;
-  left: 620px;
-}
-.s19442 {
-  top: 35px;
-  left: 1160px;
-}
-.menu1944 p {
-  position: absolute;
-  color: white;
-  font-size: 65px;
-  font-family: "Tektur", sans-serif;
-}
-.menu1944 a {
-  position: absolute;
-  color: white;
-  font-size: 85px;
-  font-family: "Tektur", sans-serif;
+#t44menu {
+  float: right;
 }
 /* т 34 85 */
-.t3485 p {
-  top: 265px;
-  left: 280px;
-}
-.t3485 a {
-  top: 595px;
-  left: 345px;
-}
-.t3485 .pr1 {
-  position: absolute;
-  top: 240px;
-  left: 95px;
-  height: 500px;
-  width: 800px;
-}
-.t3485 .t3485img {
-  position: absolute;
-  height: 320px;
-  top: 300px;
-  left: 255px;
+.imgt3485 {
+  width: 90%;
 }
 /* т 44 */
-.t44 p {
-  top: 265px;
-  right: 260px;
-}
-.t44 a {
-  top: 595px;
-  right: 395px;
-}
-.t44 .pr2 {
-  position: absolute;
-  top: 240px;
-  right: 95px;
-  height: 500px;
-  width: 800px;
-}
-.t44 .t44img {
-  position: absolute;
-  height: 360px;
-  right: 220px;
-  top: 260px;
-}
-.tank_t44 {
-  background-image: url("background67.png");
-  width: 100%;
-  height: 3750px;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.tank_t44 img {
-  position: absolute;
-}
-.tank_t44 li {
-  color: white;
-  font-family: "Tektur", sans-serif;
-}
-.tank_t44 h1 {
-  color: white;
-  font-family: "Tektur", sans-serif;
-  text-align: center;
-  font-size: 150px;
-}
-.tank_t44 p {
-  color: white;
-  font-family: "Tektur", sans-serif;
-  text-align: center;
-  font-size: 40px;
-}
-.callt44 {
-  text-decoration: underline;
-}
-.tank_t44 .icon1 {
-  height: 100px;
-  left: 430px;
-  top: 50px;
-}
-.tank_t44 .icon2 {
-  transform: scale(-1, 1);
-  height: 100px;
-  right: 430px;
-  top: 50px;
-}
-.tank_t44 .is3sides {
-  left: 170px;
-  top: 240px;
-}
-.grayt44 {
-  position: absolute;
-  height: 460px;
-  width: 1570px;
-  background: #1e1e1e;
-  top: 240px;
-  left: 160px;
-  border: solid white 4px;
-  border-radius: 60px;
-  opacity: 45%;
-}
-.gline3 {
-  top: 1970px;
-}
-.gline {
-  right: 0px;
-  transform: scale(-1, 1);
-}
-.gline4 {
-  right: 0px;
-  top: 1970px;
-  transform: scale(-1, 1);
-}
-.glenta {
-  top: 3940px;
-}
-.glenta2 {
-  top: 3940px;
-  right: 0px;
-  transform: scale(-1, 1);
-}
-.gray2t44 {
-  position: absolute;
-  height: 1140px;
-  width: 870px;
-  background-image: url("background78.png");
-  top: 760px;
-  left: 520px;
-  border: solid gray 4px;
-  border-radius: 60px;
-}
-.gray2t44 h1 {
-  font-size: 70px;
-  line-height: 70px;
-  padding-top: 10px;
-}
-.gray2t44 p {
-  padding-top: 10px;
-  font-size: 55px;
-  text-align: center;
-}
-.gray2t44 ul {
-  padding-top: 10px;
-  text-align: center;
-  list-style: url("star2.png") inside;
-  line-height: 75px;
-  font-size: 55px;
-}
-.gray2t44 ul li::after {
-  content: url("star2.png");
-  margin-left: 8px;
-}
-.gray2t44 ul .weapons {
-  font-size: 70px;
-  font-weight: 700;
-  list-style: none;
-}
-.gray2t44 ul .weapons::after {
-  content: none;
-}
-.gray3t44 {
-  position: absolute;
-  height: 1700px;
-  width: 1570px;
-  background-image: url("background78.png");
-  top: 1965px;
-  left: 160px;
-  border: solid gray 4px;
-  border-radius: 60px;
-}
-.gray3t44 p {
-  margin: 20px;
-}
-/* ис 3 */
-.is3sm1 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-  left: 460px;
-}
-.is3sm2 {
-  position: absolute;
-  height: 650px;
-  top: 740px;
-  right: 460px;
+.imgt44 {
+  width: 95%;
+  margin-top: -80px;
 }
 /*Конец 1944 года*/
 /*Начало 1945 года*/
@@ -885,6 +216,7 @@
 .bg1945 {
   background-image: url("background.jpg");
   height: 100vh;
+  overflow: hidden;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -902,21 +234,20 @@
   margin-left: -25px;
 }
 .menu1945 {
-  width: 40%;
+  width: 37%;
   color: white;
   font-size: 70px;
   text-align: center;
   font-family: "Tektur", sans-serif;
   border: solid white 3px;
   border-radius: 25px;
-  margin: 0 auto;
   line-height: 80px;
   padding: 10px;
 }
 .menu1945 .is3a {
-  width: 105%;
-  margin-top: -140px;
-  margin-left: 4vh;
+  width: 120%;
+  margin-top: -145px;
+  margin-left: -2vh;
 }
 .menu1945 .arrs {
   width: 9%;
@@ -925,6 +256,9 @@
   font-size: 90px;
   color: white;
   text-decoration: none;
+}
+#is3menu {
+  margin: 0 auto;
 }
 /* ис 3 */
 .is3 {
