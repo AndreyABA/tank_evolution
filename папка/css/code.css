@@ -4,7 +4,7 @@
   padding: 0;
 }
 .backgr {
-  background-image: url("background58.png");
+  background-image: url("background68.png");
   width: 100%;
   overflow: hidden;
   background-repeat: no-repeat;
@@ -62,78 +62,26 @@
 }
 /* Конец выбора годов */
 /* Начало 1939 года */
-.main1939 {
-  background-image: url("background.jpg");
-  height: 100vh;
-  width: 100%;
+.bg1939 {
+  height: fit-content;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.main1939 {
-  color: white;
-  font-size: 160px;
-  text-align: center;
-  font-family: "Tektur", sans-serif;
-  font-weight: 700;
-}
-.main1939 .s19391 {
-  position: absolute;
-  height: 130px;
-}
-.main1939 .s19392 {
-  position: absolute;
-  height: 130px;
-}
-.v {
-  height: 600px;
-}
-.s19391 {
-  top: 35px;
-  left: 620px;
-}
-.s19392 {
-  top: 35px;
-  left: 1160px;
-}
-.exa {
-  position: absolute;
-  left: 0px;
-  top: 0px;
+.bg1939 img {
+  height: 100vh;
+  width: 100%;
 }
 /* Конец 1939 года */
 /* Начало 1940 года */
 
 /* т 40 */
-#t40menu {
-  float: left;
-}
-#imgt40 {
-  width: 88%;
-  margin-left: 4vh;
-}
+
 /* т 34 */
-#t34menu {
-  float: right;
-}
-#imgt34 {
-  width: 94%;
-}
+
 /* кв 1 */
-#kv1menu {
-  float: left;
-  margin-top: 60px;
-}
-#imgkv1 {
-  width: 90%;
-}
+
 /* кв 2 */
-#kv2menu {
-  float: right;
-  margin-top: 60px;
-}
-#imgkv2 {
-  width: 90%;
-}
+
 /*Конец 1940 года*/
 /*Начало 1941 года*/
 #bg1941 {
@@ -327,5 +275,6 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  margin-top: 1vw;
 }
 /*Конец 1945 года*/
