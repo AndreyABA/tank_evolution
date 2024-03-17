@@ -12,26 +12,26 @@
 }
 .main_name {
   color: white;
+  height: 100vh;
+  width: 100%;
   font-size: 4.1vw;
   text-align: center;
   font-family: "Tektur", sans-serif;
   font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.ertyu {
+  height: 55vh;
 }
 .ww2 {
   font-weight: 700;
 }
-.main_name {
-  padding-top: 290px;
-}
 .arrows img {
   width: 3.5%;
 }
-.arrows {
-  margin: 0 auto;
-  text-align: center;
-  padding-top: 225px;
-}
-.arrows a {
+.main_name .arrows a {
   color: white;
   font-size: 4vw;
   font-family: "Tektur", sans-serif;
@@ -55,7 +55,7 @@
   margin: 0 auto;
   text-align: center;
   line-height: 3.2vw;
-  padding: 1vh;
+  padding: 0.6vw;
 }
 .y1939 img {
   width: 100%;
@@ -135,6 +135,9 @@
 .imgt3485 {
   width: 90%;
 }
+#yyyy {
+  width: fit-content;
+}
 /* т 44 */
 .imgt44 {
   width: 90%;
@@ -165,16 +168,16 @@
   font-size: 3.7vw;
   text-align: center;
   font-family: "Tektur", sans-serif;
-  border: solid white 3px;
-  border-radius: 25px;
+  border: solid white 0.2vw;
+  border-radius: 2.5vw;
   line-height: 4.5vw;
   margin: 1.5vw;
   padding: 0.5vw;
 }
 .menu1945 .is3a {
   width: 120%;
-  margin-top: -145px;
-  margin-left: -2vh;
+  margin-top: -11vh;
+  margin-left: -3vh;
 }
 .menu1945 .arrs {
   width: 9%;
@@ -211,13 +214,13 @@
   font-size: 7vw;
   text-decoration: underline;
   font-weight: 700;
-  width: 50%;
+  width: fit-content;
 }
-.maincall .icon2 {
+.maincall #icon2 {
   transform: scale(-1, 1);
 }
 .maincall img {
-  width: 28%;
+  width: 16vw;
 }
 .maincontent {
   display: flex;
@@ -235,8 +238,8 @@
   width: 35%;
   padding: 10px;
   background-image: url("background78.png");
-  border: solid white 3px;
-  border-radius: 60px;
+  border: solid white 0.2vw;
+  border-radius: 2.5vw;
 }
 .gray2 ul {
   padding-top: 10px;
@@ -263,8 +266,8 @@
 .gray3 {
   width: 80%;
   background-image: url("background78.png");
-  border: solid white 3px;
-  border-radius: 60px;
+  border: solid white 0.2vw;
+  border-radius: 3vw;
   margin: 2vw;
 }
 .gray3 p {
@@ -276,5 +279,8 @@
   justify-content: center;
   align-items: center;
   margin-top: 1vw;
+}
+.llink:hover {
+  text-decoration: underline;
 }
 /*Конец 1945 года*/
