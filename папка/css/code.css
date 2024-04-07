@@ -77,7 +77,100 @@
 /* т 40 */
 
 /* т 34 */
-
+.aqws {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.buttons {
+  display: flex;
+  margin-top: 1vw;
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.buttons .button1 p {
+  color: white;
+  font-family: "Tektur", sans-serif;
+  text-align: center;
+  font-size: 1.7vw;
+}
+.buttons .button1 {
+  padding: 0.7vw;
+  background-image: url("background.jpg");
+  border: solid white 0.16vw;
+  border-radius: 1.2vw;
+}
+.button1:hover {
+  box-shadow: 0 0 0.4vw white;
+  cursor: pointer;
+}
+.button1 a {
+  text-decoration: none;
+  color: white;
+}
+.pop_up {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: transparent;
+  z-index: 2;
+  transform: translateY(-30%) scale(0);
+  transition: 0.4s ease-in-out;
+}
+.pop_up_container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.pop_up_body {
+  width: 70%;
+  background-image: url("background67.png");
+  border: solid white 0.2vw;
+  border-radius: 3vw;
+  position: relative;
+  padding: 1.4vw;
+  line-height: 1.4vw;
+}
+.pop_up_close {
+  color: white;
+  font-family: "Tektur", sans-serif;
+  text-align: center;
+  font-size: 1.8vw;
+  position: absolute;
+  right: 1.8vw;
+  top: 1vw;
+  cursor: pointer;
+  opacity: 0.65;
+}
+.pop_up_close:hover {
+  opacity: 1;
+}
+.pop_up.active {
+  transform: translateY(0%) scale(100%);
+  background-color: rgba(0, 0, 0, 0.7);
+}
+#t34g {
+  width: 50%;
+  margin-top: 0.5vw;
+}
+.zasx {
+  width: 1.4vw;
+}
+.tyui {
+  width: 105%;
+}
+.zxcd {
+  color: white;
+  font-family: "Tektur", sans-serif;
+  text-align: center;
+  font-size: 2.5vw;
+}
 /* кв 1 */
 
 /* кв 2 */
